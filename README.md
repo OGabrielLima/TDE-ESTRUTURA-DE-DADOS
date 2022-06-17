@@ -15,18 +15,17 @@ TDE Estrutura de Dados
 <br>
 <img src="img/pilhas.png">
 <br>
-<p>Ao final o programa mostra o resultado da tabela verdade.</p>
 
 <hr>
 
 <h2>Trabalho 02 - Fila</h2>
-<p>No trabalho, um usuário ira percorrer um labirinto</p><br>
+<p>No trabalho, um usuário ira percorrer um labirinto até sua saída</p><br>
 <br>
 <img src="img/fila.png">
 
 <hr>
 
 <h2>Trabalho 03 - LinkedList</h2>
-<p>No trabalho, mostra-se a execução de uma linkedList</p><br>
+<p>No trabalho, mostra-se a execução de uma linkedList com add, remove, etc.</p><br>
 <br>
 <img src="img/linkedList.png">
